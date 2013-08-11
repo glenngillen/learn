@@ -9,6 +9,9 @@ A repo to keep track of learning resources
 ## Go
 
 - [6Wunderkind on Go](https://www.youtube.com/watch?v=sVpMc0hwqps)
+- [Gopher Academy](http://www.gopheracademy.com/)
+- [Beego Framework](http://beego.me/)
+- [Static Site Generator](http://hugo.spf13.com/)
 
 ## Javascript
 
