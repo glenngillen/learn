@@ -2,6 +2,10 @@
 
 A repo to keep track of learning resources
 
+## General
+
+- [Simple made easy](http://www.infoq.com/presentations/Simple-Made-Easy)
+
 ## Go
 
 ## Javascript
@@ -12,6 +16,3 @@ A repo to keep track of learning resources
 - [Javascript is Literaure is Javascript](http://www.youtube.com/watch?v=j_EfPW4G-L0&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&index=3)
 
 ## R
-
-
-
