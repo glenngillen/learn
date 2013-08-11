@@ -21,3 +21,6 @@ A repo to keep track of learning resources
 - [Javascript is Literaure is Javascript](http://www.youtube.com/watch?v=j_EfPW4G-L0&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&index=3)
 
 ## R
+
+- [DataMind Online Course](http://www.datamind.org/#/courses/1/5?ex=1)
+- [Google R Programming Lectures](http://www.r-bloggers.com/google-developers-r-programming-video-lectures/)
