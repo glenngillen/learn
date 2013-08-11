@@ -24,3 +24,7 @@ A repo to keep track of learning resources
 
 - [DataMind Online Course](http://www.datamind.org/#/courses/1/5?ex=1)
 - [Google R Programming Lectures](http://www.r-bloggers.com/google-developers-r-programming-video-lectures/)
+
+## Management
+
+- [Democratic Design](http://worldblu.com/democratic-design/)
