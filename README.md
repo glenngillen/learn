@@ -8,6 +8,8 @@ A repo to keep track of learning resources
 
 ## Go
 
+- [6Wunderkind on Go](https://www.youtube.com/watch?v=sVpMc0hwqps)
+
 ## Javascript
 
 - [Making WebGL Dance](http://www.youtube.com/watch?v=GNO_CYUjMK8&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&index=12)
