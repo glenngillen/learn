@@ -28,3 +28,5 @@ A repo to keep track of learning resources
 ## Management
 
 - [Democratic Design](http://worldblu.com/democratic-design/)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-46840117-1/learn/readme?pixel)](https://github.com/igrigorik/ga-beacon)
